@@ -1,0 +1,17 @@
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\bin\Debug\Speechh.exe.config
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\bin\Debug\Speechh.exe
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\bin\Debug\Speechh.pdb
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\obj\Debug\Speechh.csprojResolveAssemblyReference.cache
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\obj\Debug\Speechh.exe
+c:\users\john wesley\documents\visual studio 2015\Projects\Speechh\Speechh\obj\Debug\Speechh.pdb
+C:\Users\John Wesley\Documents\Visual Studio 2015\Projects\Speechh\Speechh\obj\Debug\Interop.WMPLib.dll
+C:\Users\John Wesley\Documents\Visual Studio 2015\Projects\Speechh\Speechh\obj\Debug\Speechh.csproj.ResolveComReference.cache
+E:\Visual BK\Projects\Speechh\Speechh\bin\Debug\Speechh.exe.config
+E:\Visual BK\Projects\Speechh\Speechh\bin\Debug\Speechh.exe
+E:\Visual BK\Projects\Speechh\Speechh\bin\Debug\Speechh.pdb
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Interop.WMPLib.dll
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Speechh.csproj.ResolveComReference.cache
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Speechh.exe
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Speechh.pdb
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Speechh.csprojAssemblyReference.cache
+E:\Visual BK\Projects\Speechh\Speechh\obj\Debug\Speechh.csproj.CoreCompileInputs.cache
